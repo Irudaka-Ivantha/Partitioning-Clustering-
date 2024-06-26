@@ -1,2 +1,5 @@
 # Partitioning-Clustering-
 The wine industry is growing due to social drinking trends. Wine prices depend on tasters' appreciation, which is volatile. Certification and quality assessment rely on physicochemical tests, analyzing factors like acidity and pH. Linking tasters' ratings with chemical properties could streamline the quality assessment process.
+
+
+we consider a set of observations on a number of white wine varieties involving their chemical properties and ranking by tasters. Wine industry shows a recent growth spurt as social drinking is on the rise. The price of wine depends on a rather abstract concept of wine appreciation by wine tasters. Pricing of wine depends on such a volatile factor to some extent. Another key factor in wine certification and quality assessment is physicochemical tests which are laboratory-based and takes into account factors like acidity, pH level, presence of sugar and other chemical properties. For the wine market, it would be of interest if human quality of testing can be related to the chemical properties of wine so that certification and quality assessment and assurance process is more controlled. 
